@@ -1,0 +1,120 @@
+{
+  "onsite": {
+    "Monday": {
+      "date": "2026-04-10",
+      "events": [
+        {
+          "moderators": [
+            {
+              "name": "Marco Cano",
+              "image": "https://avatars0.githubusercontent.com/u/23092057?s=128"
+            }
+          ],
+          "title": "UI Design",
+          "description": "Intro to modern UI design systems, component thinking, and building scalable front-end interfaces.",
+          "tags": ["UI", "front-end", "React"],
+          "tools-needed": ["laptop"],
+          "difficulty": "beginner",
+          "room": "SR-403",
+          "start_time": "9:00AM",
+          "end_time": "10:00AM",
+          "zoom-link": "https://scrippsresearch.zoom.us/j/269944845#success"
+        },
+        {
+          "moderators": [
+            {
+              "name": "Chunlei Wu",
+              "image": "https://www.gravatar.com/avatar/108605daee6b3c24d02db9753637a66b.png?s=128"
+            }
+          ],
+          "title": "Distributed Systems Fundamentals",
+          "description": "Explore concepts like consensus, replication, and fault tolerance in large-scale distributed systems.",
+          "tags": ["distributed-systems", "backend", "scalability"],
+          "tools-needed": ["laptop"],
+          "difficulty": "intermediate",
+          "room": "SR-403",
+          "start_time": "10:15AM",
+          "end_time": "11:15AM",
+          "zoom-link": "https://scrippsresearch.zoom.us/j/111111111"
+        },
+        {
+          "moderators": [
+            {
+              "name": "Dylan Welzel",
+              "image": "https://1.gravatar.com/avatar/ca4be26e1a74a8b17ab6ebeafdb634dcf76b6bec420c7de54a4925ee5df86162?size=128x"
+            }
+          ],
+          "title": "Graph Databases & Query Optimization",
+          "description": "Learn how graph databases work and how to write efficient queries using traversal-based approaches.",
+          "tags": ["databases", "graphs", "query-optimization"],
+          "tools-needed": ["laptop"],
+          "difficulty": "intermediate",
+          "room": "SR-403",
+          "start_time": "11:30AM",
+          "end_time": "12:30PM",
+          "zoom-link": "https://scrippsresearch.zoom.us/j/222222222"
+        }
+      ]
+    },
+    "Tuesday": {
+      "date": "2026-04-11",
+      "events": [
+        {
+          "moderators": [
+            {
+              "name": "Nichollete Acosta",
+              "image": "https://wulab.io/static/img/nicholla.jpg"
+            }
+          ],
+          "title": "Machine Learning Pipelines",
+          "description": "Build end-to-end ML pipelines including data preprocessing, training, evaluation, and deployment.",
+          "tags": ["machine-learning", "pipelines", "python"],
+          "tools-needed": ["laptop", "python"],
+          "difficulty": "intermediate",
+          "room": "SR-403",
+          "start_time": "9:00AM",
+          "end_time": "10:00AM",
+          "zoom-link": "https://scrippsresearch.zoom.us/j/333333333"
+        },
+        {
+          "moderators": [
+            {
+              "name": "Chunlei Wu",
+              "image": "https://www.gravatar.com/avatar/108605daee6b3c24d02db9753637a66b.png?s=128"
+            }
+          ],
+          "title": "Parallel Computing with GPUs",
+          "description": "Introduction to GPU acceleration, CUDA basics, and parallelizing compute-heavy workloads.",
+          "tags": ["gpu", "parallel-computing", "performance"],
+          "tools-needed": ["laptop"],
+          "difficulty": "advanced",
+          "room": "SR-403",
+          "start_time": "10:15AM",
+          "end_time": "11:15AM",
+          "zoom-link": "https://scrippsresearch.zoom.us/j/444444444"
+        },
+        {
+          "moderators": [
+            {
+              "name": "Dylan Welzel",
+              "image": "https://1.gravatar.com/avatar/ca4be26e1a74a8b17ab6ebeafdb634dcf76b6bec420c7de54a4925ee5df86162?size=128x"
+            },
+            {
+              "name": "Nichollete Acosta",
+              "image": "https://wulab.io/static/img/nicholla.jpg"
+            }
+          ],
+          "title": "Building Real-Time Systems",
+          "description": "Design event-driven architectures using websockets, queues, and streaming platforms.",
+          "tags": ["real-time", "event-driven", "backend"],
+          "tools-needed": ["laptop"],
+          "difficulty": "advanced",
+          "room": "SR-403",
+          "start_time": "11:30AM",
+          "end_time": "12:30PM",
+          "zoom-link": "https://scrippsresearch.zoom.us/j/555555555"
+        }
+      ]
+    }
+  }
+}
