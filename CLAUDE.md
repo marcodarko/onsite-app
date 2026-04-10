@@ -11,6 +11,13 @@ Event data will come from a JSON file in this repo called "events.json".
 
 Events will be grouped by day and subgroups of time slots.
 
+## Styles
+
+The theme colors of the app will be listed in the JSON, use those throughout.
+The colors should be easy to swap out each update.
+Take a look at the provided wireframe for reference and styling.
+A big logo representing the theme will be on the top middle of the page, a file will be provided "logo.png"
+
 ## Environment Setup
 
 ```bash
@@ -19,8 +26,7 @@ npm run dev
 
 ## Running the Pipeline
 
-1. Read `AGENT.md` if available for execution rules
-2. Commit scripts with a descriptive message of steps taken and assests to git
+Commit scripts with a descriptive message of steps taken and assests to git
 
 ## Architecture
 
